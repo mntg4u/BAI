@@ -1,3 +1,147 @@
+FEB 22 11:03:54.32
+GET
+200
+mn-chatbot.vercel.app
+/api/bot.js
+FEB 22 11:03:49.38
+GET
+200
+mn-chatbot.vercel.app
+/api/bot.js
+FEB 22 11:03:43.42
+POST
+200
+mn-chatbot.vercel.app
+/api/bot.js
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 409 Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first"}
+FEB 22 11:03:36.84
+POST
+200
+mn-chatbot.vercel.app
+/api/bot.js
+FEB 22 11:03:08.02
+POST
+200
+mn-chatbot.vercel.app
+/api/bot.js/
+FEB 22 11:02:44.63
+POST
+200
+mn-chatbot.vercel.app
+/
+FEB 22 11:02:19.63
+GET
+200
+mn-chatbot.vercel.app
+/api/bot.js
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 409 Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first"}
+FEB 22 11:02:16.46
+POST
+200
+mn-chatbot.vercel.app
+/api/bot.js
+FEB 22 11:02:07.68
+GET
+200
+mn-chatbot.vercel.app
+/api/bot.js
+FEB 22 11:01:51.64
+POST
+200
+mn-chatbot.vercel.app
+/api/bot.js
+FEB 22 11:01:47.87
+POST
+200
+mn-chatbot.vercel.app
+/api/bot.js
+FEB 22 11:01:47.74
+POST
+200
+mn-chatbot.vercel.app
+/api/bot.js
+Received start command from YesImVirtual Received start command from YesImVirtual
+FEB 22 11:01:38.21
+GET
+200
+mn-chatbot.vercel.app
+/
+FEB 22 11:00:46.99
+POST
+200
+mn-chatbot.vercel.app
+/api/bot.js
+FEB 22 11:00:46.87
+POST
+200
+mn-chatbot.vercel.app
+/api/bot.js
+FEB 22 11:00:46.75
+POST
+200
+mn-chatbot.vercel.app
+/api/bot.js
+FEB 22 11:00:46.62
+POST
+200
+mn-chatbot.vercel.app
+/api/bot.js
+FEB 22 11:00:46.41
+POST
+200
+mn-chatbot.vercel.app
+/api/bot.js
+Received start command from YesImVirtual Received start command from YesImVirtual Received start command from YesImVirtual Received start command from YesImVirtual Received start command from YesImVirtual Received start command from YesImVirtual
+FEB 22 11:00:40.32
+GET
+200
+mn-chatbot.vercel.app
+/api/bot.js
+FEB 22 10:58:50.11
+POST
+200
+mn-chatbot.vercel.app
+/api/bot.js
+FEB 22 10:58:50.00
+POST
+200
+mn-chatbot.vercel.app
+/api/bot.js
+FEB 22 10:58:49.98
+POST
+200
+mn-chatbot.vercel.app
+/api/bot.js
+FEB 22 10:58:49.85
+POST
+200
+mn-chatbot.vercel.app
+/api/bot.js
+FEB 22 10:58:43.08
+GET
+200
+mn-chatbot.vercel.app
+/
+FEB 22 10:48:02.70
+POST
+200
+mn-chatbot.vercel.app
+/api/bot.js
+FEB 22 10:48:02.58
+POST
+200
+mn-chatbot.vercel.app
+/api/bot.js
+FEB 22 10:48:02.46
+POST
+200
+mn-chatbot.vercel.app
+/api/bot.js
+FEB 22 10:48:01.43
+POST
+200
+mn-chatbot.vercel.app
+/api/bot.js
 FEB 22 10:40:28.82
 GET
 200
@@ -14,403 +158,3 @@ GET
 200
 mn-chatbot.vercel.app
 /
-FEB 22 10:35:40.68
-GET
-200
-mn-chatbot.vercel.app
-/
-error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: Client network socket disconnected before secure TLS connection was established"}
-FEB 22 10:33:53.62
-GET
-200
-mn-chatbot.vercel.app
-/
-FEB 22 10:29:52.38
-GET
-200
-mn-chatbot.vercel.app
-/api/bot.js
-Received start command from YesImVirtual
-FEB 22 10:29:14.54
-GET
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:29:11.18
-GET
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:29:05.00
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:29:01.12
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 409 Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first"}
-FEB 22 10:29:00.99
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:28:30.32
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:28:24.80
-GET
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:28:21.54
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 409 Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first"}
-FEB 22 10:28:18.11
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:28:12.48
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:28:10.93
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:28:06.69
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:28:06.55
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-Received start command from YesImVirtual Received start command from YesImVirtual
-FEB 22 10:28:01.68
-GET
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:27:28.57
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:27:01.46
-GET
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:26:59.02
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:26:59.00
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:26:58.91
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:26:58.88
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:26:58.78
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:26:58.76
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 409 Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first"}
-FEB 22 10:26:58.64
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:26:45.11
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:26:35.36
-GET
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:26:19.13
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:26:15.20
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:26:15.13
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:26:15.09
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:26:15.07
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 409 Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first"}
-FEB 22 10:26:14.94
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:49.44
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:40.67
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:40.56
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:40.44
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:40.32
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:40.20
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:40.08
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:39.97
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:39.85
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:39.73
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:39.61
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:39.49
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:39.37
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:39.25
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:39.24
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 409 Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first"}
-FEB 22 10:25:39.09
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:19.98
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:19.95
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:19.79
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:19.69
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:19.66
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:19.44
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-Received start command from YesImVirtual Received message from MrMNTG Received start command from MrMNTG Received start command from MrMNTG Received message from MrMNTG Received start command from MrMNTG Received start command from MrMNTG Received start command from MrMNTG Received start command from MrMNTG Received start command from MrMNTG Received start command from MrMNTG Received start command from MrMNTG Received start command from MrMNTG Received start command from YesImVirtual Received message from YesImVirtual Received start command from MrMNTG Received message from MrMNTG Received start command from YesImVirtual
-FEB 22 10:25:15.83
-GET
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:04.10
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:04.03
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:03.98
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:03.91
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:03.86
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:03.79
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:03.74
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:03.67
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:03.62
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:03.50
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:03.50
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:03.50
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:03.50
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:03.50
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:03.50
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:03.50
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:03.50
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:03.49
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:25:03.33
-POST
-200
-mn-chatbot.vercel.app
-/api/bot.js
-error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: socket hang up"}
-FEB 22 10:21:14.94
-GET
-200
-mn-chatbot.vercel.app
-/api/bot.js
-FEB 22 10:20:38.33
-GET
-200
-mn-chatbot.vercel.app
-/api/bot.js
