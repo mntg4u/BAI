@@ -1,3 +1,62 @@
+FEB 22 10:40:28.82
+GET
+200
+mn-chatbot.vercel.app
+/
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: socket hang up"}
+FEB 22 10:38:59.06
+GET
+200
+mn-chatbot.vercel.app
+/api/bot.js
+FEB 22 10:38:58.76
+GET
+200
+mn-chatbot.vercel.app
+/
+FEB 22 10:35:40.68
+GET
+200
+mn-chatbot.vercel.app
+/
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: Client network socket disconnected before secure TLS connection was established"}
+FEB 22 10:33:53.62
+GET
+200
+mn-chatbot.vercel.app
+/
+FEB 22 10:29:52.38
+GET
+200
+mn-chatbot.vercel.app
+/api/bot.js
+Received start command from YesImVirtual
+FEB 22 10:29:14.54
+GET
+200
+mn-chatbot.vercel.app
+/api/bot.js
+FEB 22 10:29:11.18
+GET
+200
+mn-chatbot.vercel.app
+/api/bot.js
+FEB 22 10:29:05.00
+POST
+200
+mn-chatbot.vercel.app
+/api/bot.js
+FEB 22 10:29:01.12
+POST
+200
+mn-chatbot.vercel.app
+/api/bot.js
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 409 Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first"}
+FEB 22 10:29:00.99
+POST
+200
+mn-chatbot.vercel.app
+/api/bot.js
 FEB 22 10:28:30.32
 POST
 200
